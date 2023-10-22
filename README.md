@@ -60,4 +60,12 @@ python3 ANscanner.py
 
  - [NMAP](https://nmap.org/)
 
+**Usage Guidelines:**
 
+**Educational Use Only:** This tool is meant for educational purposes only.
+
+**Authorized Networks:** Only scan networks and hosts for which you have explicit authorization.
+
+**Respect Privacy:** Avoid scanning private networks or systems without permission.
+
+**No Malicious Intent:** Do not use this tool for any harmful or malicious activities.
