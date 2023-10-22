@@ -28,8 +28,12 @@ Automated Network Scanner is a Python-based script designed for network explorat
  ![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn2.PNG)
 
 - **Scan First 1000 Ports:** Determines running services on the first 1000 ports of active hosts.
+
+  
 ![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn3.PNG)
 - **Comprehensive Scan:** Scans all open ports on all active hosts, checking for vulnerabilities in running services.
+
+
 ![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn4.PNG)
 - **Scan Vulnerabilities:** Identifies potential vulnerabilities on services running on the first 1000 ports of active hosts.
 
