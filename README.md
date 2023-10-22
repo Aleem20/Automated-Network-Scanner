@@ -25,7 +25,7 @@ https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn1.PNG
 - **Scan for Open Ports:** Identifies all active hosts with open ports.
 
  
- https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn2.PNG
+ ![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn2.PNG)
 
 - **Scan First 1000 Ports:** Determines running services on the first 1000 ports of active hosts.
 https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn3.PNG
